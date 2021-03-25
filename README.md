@@ -1,4 +1,4 @@
-# fleait-bot
+# fleapit-bot
 
 Discord bot for searching images, gifs, movies info, tv shows info, youtube videos, spotify song, albums, artists.
 
