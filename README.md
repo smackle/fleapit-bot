@@ -3,7 +3,7 @@ Verified Discord bot for searching images, gifs, movies info, tv shows info, you
 
 [Fleapit Bot Invite](https://discord.com/oauth2/authorize?client_id=767557165224689724&scope=bot&permissions=27648) <br/>
 [Fleapit Support Server](https://discord.gg/8ZSbqe9N7a) <br/>
-[Support fleapit, become a Patreon](https://patreon.com/fleapit) <br/> 
+[Support fleapit, become a Patreon](https://buymeacoffee.com/fleapit) <br/> 
 [Fleapit Website](https://fleapit.me/) <br/> 
 [Fleapit Documentation](https://docs.fleapit.me/) <br/> 
 
